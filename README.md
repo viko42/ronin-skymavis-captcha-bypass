@@ -43,7 +43,7 @@ python app.py
       "success": "right"
     },
     "token": "captcha_token",
-    "clicks": "number_of_clicks"
+    "clicks": 0-330 -> rotation degree
   }
   ```
 
