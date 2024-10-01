@@ -2,6 +2,8 @@
 
 This API solves captchas for sites using Skymavis OAuth. It provides a solution for bypassing the captcha challenge programmatically.
 
+![Captcha](example.png)
+
 ## Setup
 
 1. Install the required dependencies:
