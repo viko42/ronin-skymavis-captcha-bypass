@@ -5,10 +5,6 @@ import logging
 
 app = Flask(__name__)
 
-proxies = {
-    'http': "--your-proxy--url",
-    'https': "--your-proxy--url",
-}
 logging.basicConfig(level=logging.ERROR, format='%(asctime)s - %(levelname)s - %(message)s')
 
 @app.route('/solve_captcha', methods=['POST'])
